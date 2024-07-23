@@ -5,10 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-morais-1352061a2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_victormorais_/)
 
-<div>
+
   ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoraisBH&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoraisBH&layout=donut)
-</div>
+
 
 ## Tecnologias/Linguagens 
 
