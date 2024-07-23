@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_victormorais_/)
 
 ![Victor GitHub stats
-](https://github-readme-stats.vercel.app/api?username=VictorMoraisBH&show_icons=true&theme=gruvbox)
+](https://github-readme-stats.vercel.app/api?username=VictorMoraisBH&show_icons=true&theme=radical)
 
 ## Tecnologias/Linguagens que eu uso no meu dia
 
