@@ -7,7 +7,7 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoraisBH&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias/Linguagens que eu uso no meu dia
 
 <div style="display: inline_block">
 
@@ -19,5 +19,4 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
+Apaixonado por tecnologia, estou constantemente a expandir os meus conhecimentos diariamente.
