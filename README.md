@@ -6,11 +6,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_victormorais_/)
 
 
-  ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoraisBH&show_icons=true&theme=radical)<br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoraisBH&layout=compact)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoraisBH&show_icons=true&theme=radical)<br/>
 
 
 ## Tecnologias/Linguagens 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoraisBH&layout=compact)
+
 
 <div style="display: inline_block">
 
